@@ -1,1 +1,1 @@
-### Configuration files I used in debian.
+Configuration files I used in debian.
